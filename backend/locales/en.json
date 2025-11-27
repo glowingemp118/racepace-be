@@ -1,0 +1,29 @@
+{
+    "success": {
+      "login": "Login successful",
+      "logout": "Logout successful",
+      "signup": "Signup successful",
+      "update": "Updated successfully",
+      "delete": "Deleted successfully",
+      "create": "Created successfully",
+      "fetch": "Fetched successfully",
+      "upload": "Uploaded successfully"
+    },
+    "error": {
+      "login": "Login failed",
+      "logout": "Logout failed",
+      "signup": "Signup failed",
+      "update": "Update failed",
+      "delete": "Delete failed",
+      "create": "Creation failed",
+      "fetch": "Fetch failed",
+      "upload": "Upload failed",
+      "server": "Internal server error",
+      "notFound": "Resource not found",
+      "unauthorized": "Unauthorized access",
+      "forbidden": "Forbidden access",
+      "validation": "Validation error",
+      "timeout": "Request timed out"
+    }
+  }
+  
